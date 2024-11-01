@@ -18,7 +18,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
 - Manga/Anime
   [MyAnimeList](https://myanimelist.net/animelist/hegosder)
 - Çeviri yapmak (İngilizce -> Türkçe)
-  Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim :) Ama genel olarak https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
+  Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim :) Ama genel olarak [Uyuyan Balık Çeviri Grubu](https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html) üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
   Yaptığım şarkı çevirilerini genel olarak paylaşmadım, ama belki bir ara paylaşırım kimbilir... Çok merak ederseniiz, [Uyuyan Balık Discord Sunucusu](https://discord.gg/HEHG2QJ)'na atlayıp Şarkı-Sözü kanalında Hegosder'i aratabilirsiniz. Fennna şarkı çevirilerim var doğrusu. Altyazı oluşturma zahmeti olmasa video olarak yt'de paylaşırdım ama çok zahmetli, belki bunun üzerine bir program yazarım bir ara çünkü epey şarkı çevirisi yaptım sanırım.
   
 - Acayip derecede manyak bir yazılım/donanım video izleme hastalığım var. Bilmiyorum kaç bin (10000+ belki?) saatlik video izlediğimi...
