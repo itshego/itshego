@@ -16,23 +16,22 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
 - League of Legends :D 
   - Türkiye sıralamasında Top 10 oynarım, fena lolcüyümdür ahahaha. Epey bir zaman paramı buradan kazandım :)
 - Manga/Anime
-  [MyAnimeList](https://myanimelist.net/animelist/hegosder)
+  - [MyAnimeList](https://myanimelist.net/animelist/hegosder)
 - Çeviri yapmak (İngilizce -> Türkçe)
-  Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim :) Ama genel olarak [Uyuyan Balık Çeviri Grubu](https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html) üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
+  - Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim :) Ama genel olarak [Uyuyan Balık Çeviri Grubu](https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html) üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
   Yaptığım şarkı çevirilerini genel olarak paylaşmadım, ama belki bir ara paylaşırım kimbilir... Çok merak ederseniiz, [Uyuyan Balık Discord Sunucusu](https://discord.gg/HEHG2QJ)'na atlayıp Şarkı-Sözü kanalında Hegosder'i aratabilirsiniz. Fennna şarkı çevirilerim var doğrusu. Altyazı oluşturma zahmeti olmasa video olarak yt'de paylaşırdım ama çok zahmetli, belki bunun üzerine bir program yazarım bir ara çünkü epey şarkı çevirisi yaptım sanırım.
   
 - Acayip derecede manyak bir yazılım/donanım video izleme hastalığım var. Bilmiyorum kaç bin (10000+ belki?) saatlik video izlediğimi...
-
-- Donanım haberlerini takip etmek
-  [Der8auer](https://www.youtube.com/@der8auer-en), [GamersNexus](https://www.youtube.com/@GamersNexus), [TechTechPotato](https://www.youtube.com/@TechTechPotato)
-- AI haberlerini takip etmek
-  [AI Explained](https://www.youtube.com/@aiexplained-official), [Fireship](https://www.youtube.com/@Fireship), [Reddit-Singularity](https://www.reddit.com/r/singularity/)
-- Genel olarak yazılım/donanım hakkında şeyler öğrenmek
-  [CoreDumped](https://www.youtube.com/@CoreDumpped), [Branch Education](https://www.youtube.com/@BranchEducation), [ComputerPhile](https://www.youtube.com/@Computerphile)
-- İlgi çekici farklı konularda yazılım/donanım videoları izlemek
-  [Low Level Programming](https://www.youtube.com/@LowLevelTV), [LowByteProduction](https://www.youtube.com/@LowByteProductions), [Cherno](https://www.youtube.com/@TheCherno)
-- Sohbetimsi yazılım/donanım videoları izlemek
-  [Hafif Programmmmmiing](https://www.youtube.com/@hafifprogramming)(muhteşem jingle'larıyla hjdsjhds), [Lex Fridman](https://www.youtube.com/c/lexfridman), [Oğuz Ergin](https://www.youtube.com/@oguz_ergin)
+  -Donanım haberlerini takip etmek
+    - [Der8auer](https://www.youtube.com/@der8auer-en), [GamersNexus](https://www.youtube.com/@GamersNexus), [TechTechPotato](https://www.youtube.com/@TechTechPotato)
+  - AI haberlerini takip etmek
+    - [AI Explained](https://www.youtube.com/@aiexplained-official), [Fireship](https://www.youtube.com/@Fireship), [Reddit-Singularity](https://www.reddit.com/r/singularity/)
+  - Genel olarak yazılım/donanım hakkında şeyler öğrenmek
+    - [CoreDumped](https://www.youtube.com/@CoreDumpped), [Branch Education](https://www.youtube.com/@BranchEducation), [ComputerPhile](https://www.youtube.com/@Computerphile)
+  - İlgi çekici farklı konularda yazılım/donanım videoları izlemek
+    - [Low Level Programming](https://www.youtube.com/@LowLevelTV), [LowByteProduction](https://www.youtube.com/@LowByteProductions), [Cherno](https://www.youtube.com/@TheCherno)
+  - Sohbetimsi yazılım/donanım videoları izlemek
+    - [Hafif Programmmmmiing](https://www.youtube.com/@hafifprogramming)(muhteşem jingle'larıyla hjdsjhds), [Lex Fridman](https://www.youtube.com/c/lexfridman), [Oğuz Ergin](https://www.youtube.com/@oguz_ergin)
 
 - [Reddit'te](https://reddit-user-analyser.netlify.app/#hegosder) takılmayı severim. 
  
