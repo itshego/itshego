@@ -22,7 +22,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
   Yaptığım şarkı çevirilerini genel olarak paylaşmadım, ama belki bir ara paylaşırım kimbilir... Çok merak ederseniiz, [Uyuyan Balık Discord Sunucusu](https://discord.gg/HEHG2QJ)'na atlayıp Şarkı-Sözü kanalında Hegosder'i aratabilirsiniz. Fennna şarkı çevirilerim var doğrusu. Altyazı oluşturma zahmeti olmasa video olarak yt'de paylaşırdım ama çok zahmetli, belki bunun üzerine bir program yazarım bir ara çünkü epey şarkı çevirisi yaptım sanırım.
   
 - Acayip derecede manyak bir yazılım/donanım video izleme hastalığım var. Bilmiyorum kaç bin (10000+ belki?) saatlik video izlediğimi...
-  -Donanım haberlerini takip etmek
+  - Donanım haberlerini takip etmek
     - [Der8auer](https://www.youtube.com/@der8auer-en), [GamersNexus](https://www.youtube.com/@GamersNexus), [TechTechPotato](https://www.youtube.com/@TechTechPotato)
   - AI haberlerini takip etmek
     - [AI Explained](https://www.youtube.com/@aiexplained-official), [Fireship](https://www.youtube.com/@Fireship), [Reddit-Singularity](https://www.reddit.com/r/singularity/)
