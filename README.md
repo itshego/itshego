@@ -5,7 +5,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
 
 ## 💻 Teknolojik İlgi Alanlarım
 - Programlama Dilleri: C, C#, Python, Java... Diğer dillerde de bir şeyler yapabilirim ama; yeri geldi assembly yazdım, yeri geldi asp veya js... Yani bir şeyi yapmak istersem, o işi yapabilecek programlama dili de ilgimi çekebilir bir süreliğine :)
-- Güncel Teknoloji Takibi: AI gelişmeleri, İşlemci teknolojileri, Low level programming
+- Güncel Teknoloji Takibi: AI gelişmeleri, Görüntü İşleme, İşlemci teknolojileri, Low level programming
 
 ## 🚀 Şu An Üzerinde Çalıştığım Proje
 **PyQt 5 ile Gelişmiş Grafik Editörü** 
@@ -14,11 +14,11 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
 
 ## 🎮 Hobiler & İlgi Alanlarım (Hayatımın %90'ı)
 - League of Legends :D 
-  - Türkiye sıralamasında Top 100'de oynarım genelde.
+  - Türkiye sıralamasında Top 10'de oynarım. ([if u don't get the joke] (https://www.linkedin.com/posts/charles-wallis_leagueoflegends-gaming-professionaldevelopment-activity-7217427454536089601-RqT9/))
 - Manga/Anime
   - [MyAnimeList](https://myanimelist.net/animelist/hegosder)
 - Çeviri yapmak (İngilizce -> Türkçe)
-  - Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim :) Ama genel olarak [Uyuyan Balık Çeviri Grubu](https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html) üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
+  - Manga çevirilerimi bulmak biraz zor, 1000+ bölüm manga çevirisi var nereden bulup birleştireyim?.. Ama genel olarak [Uyuyan Balık Çeviri Grubu](https://manga-tr.com/fansub-uyuyan-balik-ceviri-grubu.html) üzerinde yapılan çevirilerin %80'inde parmağım dokunmuştur.
   Yaptığım şarkı çevirilerini genel olarak paylaşmadım, ama belki bir ara paylaşırım kimbilir... Çok merak ederseniiz, [Uyuyan Balık Discord Sunucusu](https://discord.gg/HEHG2QJ)'na atlayıp Şarkı-Sözü kanalında Hegosder'i aratabilirsiniz. Övünmek gibi olmasın ama fennna şarkı çevirilerim var doğrusu.
   
 - Acayip derecede manyak bir yazılım/donanım video izleme hastalığım var. Bilmiyorum kaç bin (10000+ belki?) saatlik video izlediğimi...
