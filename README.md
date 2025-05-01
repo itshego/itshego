@@ -14,7 +14,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisi ve bilgisayar programcılığ�
 
 ## 🎮 Hobiler & İlgi Alanlarım (Hayatımın %90'ı)
 - League of Legends :D 
-  - Türkiye sıralamasında Top 10'de oynarım. ([if u don't get the joke] (https://www.linkedin.com/posts/charles-wallis_leagueoflegends-gaming-professionaldevelopment-activity-7217427454536089601-RqT9/))
+  - Türkiye sıralamasında Top 10'de oynarım. ([if u don't get the joke](https://www.linkedin.com/posts/charles-wallis_leagueoflegends-gaming-professionaldevelopment-activity-7217427454536089601-RqT9/))
 - Manga/Anime
   - [MyAnimeList](https://myanimelist.net/animelist/hegosder)
 - Çeviri yapmak (İngilizce -> Türkçe)
